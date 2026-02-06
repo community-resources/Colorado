@@ -5,7 +5,7 @@ Community Resources for the State of Colorado
 **The information provided in this repository is for general informational purposes only and is provided "as is" without any warranties of accuracy, completeness, or fitness for a particular purpose.** As a maintainer, I do not vet, endorse, or guarantee the services, safety, or privacy practices of the external organizations listed herein. Use of this directory is strictly at your own risk; the maintainers shall not be held liable for any damages, losses, or negative outcomes resulting from your reliance on this data or your interactions with the linked entities. **It is your sole responsibility to verify the legitimacy of any resource and to exercise caution before sharing sensitive personal or financial information with third-party providers.** By using this repository, you acknowledge that links may become outdated and that you are responsible for conducting your own due diligence before seeking services.
 
 
-## Resource Directories
+## Aggregated Resource Directories
 _Search for food, shelter, medical care, job training, and more in one place._
 
 For the most comprehensive support, **check both your specific county AND the statewide resources.**
