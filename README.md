@@ -44,9 +44,10 @@ May contain support not listed in the county directories.
 > 
 ### Statewide /Food Bank Directories
 *Food Assistance Covering the Entire State of Colorado*
-[Food Pantries](http://www.foodpantries.org)
-[Hunger Free Colorado](http://www.hungerfreecolorado.org/)
-[Volunteers of America](http://www.voacolorado.org/) Meals on Wheels and more.
+- [Food Pantries](http://www.foodpantries.org)
+- [Hunger Free Colorado](http://www.hungerfreecolorado.org/)
+- [Volunteers of America](http://www.voacolorado.org/) Meals on Wheels and more.
+
 ### Food Banks (By City)
 #### Aurora
 ###### Aurora Interfaith Community Services
