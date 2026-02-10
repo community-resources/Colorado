@@ -162,7 +162,55 @@ May contain support not listed in the county directories.
 - **Address:** 9056 E. Parker Rd Parker, CO 80138
 - **Telephone:** 303-841-3750
 - **Website:** https://avemaria.church
+
+    Telephone: 303-841-3750
+    Website: https://avemaria.church
+
+
+Health
+Directory of Low Cost / Sliding Scale Cost Clinics
+
+    211- Health Services by Category
+    211 - Directory of Community Health Clinics
+    Primary Health Care
+
+Low Cost / Sliding Scale Cost Clinics
+
+    CAHEP Clinic (Colorado Alliance for Health Equity & Practice)
+    Denver Health Clinics and School-Based Health Centers
+    Inner City Health Center
+    Clínica Tepeyac
+
+Dental
+
+    Low Income Dental Resources
+
+
+    Telephone: 303-841-3750
+    Website: https://avemaria.church
+
+
+Health
+Directory of Low Cost / Sliding Scale Cost Clinics
+
+    211- Health Services by Category
+    211 - Directory of Community Health Clinics
+    Primary Health Care
+
+Low Cost / Sliding Scale Cost Clinics
+
+    CAHEP Clinic (Colorado Alliance for Health Equity & Practice)
+    Denver Health Clinics and School-Based Health Centers
+    Inner City Health Center
+    Clínica Tepeyac
+
+Dental
+
+    Low Income Dental Resources
+
+
 <br>
+
 ## Health
 ###### Directory of Low Cost / Sliding Scale Cost Clinics
 - [211- Health Services by Category](https://www.211colorado.org/health-services/)
