@@ -192,6 +192,7 @@ May contain support not listed in the county directories.
 ## Housing
 
 #### Shelters
+##### Gender Specific
 ###### **Women**
 - [St. Francis Center](http://www.sfcdenver.org/)
 - [The Delores Project](http://thedeloresproject.org/)
