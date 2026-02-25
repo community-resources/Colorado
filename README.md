@@ -186,3 +186,19 @@ May contain support not listed in the county directories.
 - [Clínica Tepeyac](https://www.tepeyachealth.org/) 
 ###### Dental
 - [Low Income Dental Resources](https://mddsdentist.com/public-resources/low-income-dental-care/)
+
+<br>
+
+## Housing
+
+#### Shelters
+###### **Women**
+- [St. Francis Center](http://www.sfcdenver.org/)
+- [The Delores Project](http://thedeloresproject.org/)
+- [The Gathering Place](http://tgpdenver.org/) (Day Shelter)
+- [The Samaritan House](https://ccdenver.org/denver-samaritan-house/)
+
+###### **Men**
+- [Denver Rescue Mission](https://www.denverrescuemission.org/)
+- [Denver Rescue Mission Lawrence Street Community Center](https://www.denverrescuemission.org/location/lawrence-street-community-center)
+- [St. Francis Center Denver](http://www.sfcdenver.org/)
