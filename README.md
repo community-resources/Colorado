@@ -178,7 +178,7 @@ May contain support not listed in the county directories.
 ###### Directory of Low Cost / Sliding Scale Cost Clinics
 - [211- Health Services by Category](https://www.211colorado.org/health-services/)
 - [211 - Directory of Community Health Clinics](https://search.211colorado.org/search?terms=Community%20Clinics&page=1&location=colorado&service_area=colorado)
-- [Primary Health Care](http://www.bphc.hrsa.gov) 
+- [Find a Health Center](https://findahealthcenter.hrsa.gov/) 
 ###### Low Cost / Sliding Scale Cost Clinics
 - [CAHEP Clinic (Colorado Alliance for Health Equity & Practice)](https://cahep.org/)
 - [Denver Health Clinics and School-Based Health Centers](http://denverhealth.org/?TabId=178) 
