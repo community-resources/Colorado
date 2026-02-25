@@ -191,12 +191,14 @@ May contain support not listed in the county directories.
 
 ## Housing
 - [HUD Resource Locator](https://resources.hud.gov/) – National map of affordable and subsidized housing.
-- [U.S. Department of Housing & Urban Development Tenant Resources](https://www.hud.gov/states/colorado/renting/tenantrights)
+- [U.S. Department of Housing & Urban Development Helping Americans](https://www.hud.gov/helping-americans) - Information and resources for homebuyers, homeowners, property residents/renters, and people experiencing homelessness.
 - [Colorado Housing Connects](https://coloradohousingconnects.org/) – Eviction prevention and tenant rights hotline.
 	- **Foreclosure Hotline:** (844) 926-6632
-- [National Coalition for the Homeless](https://nationalhomeless.org/references/directory/) – Directory of advocacy and service groups.
+- [National Coalition for the Homeless](https://nationalhomeless.org/finding-help/) – Where to find help if you are experiencing homelessness 
 
 #### Shelters
+##### Directories
+- [Directory of Shelters](https://www.homelessshelterdirectory.org/state/colorado)
 - [Shelters by City](https://www.shelterlistings.org/state/colorado.html)
 - [Community Shelters](https://search.211colorado.org/search?terms=community%20shelters&page=1&location=colorado&service_area=colorado)
 - [Domestic Violence Shelters](https://search.211colorado.org/search?terms=domestic%20violence%20shelters&page=1&location=colorado&service_area=colorado)
@@ -207,7 +209,7 @@ May contain support not listed in the county directories.
 - [Runaway/Youth Shelters](https://search.211colorado.org/search?terms=runaway%2Fyouth%20shelters&page=1&location=colorado&service_area=colorado)
 - [Maternity Homes](https://search.211colorado.org/search?terms=maternity%20homes&page=1&location=colorado&service_area=colorado)
 
-##### Gender Specific
+##### Gender Specific Shelters
 ###### **Women**
 - [St. Francis Center](http://www.sfcdenver.org/)
 - [The Delores Project](http://thedeloresproject.org/)
