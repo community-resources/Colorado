@@ -192,6 +192,15 @@ May contain support not listed in the county directories.
 ## Housing
 
 #### Shelters
+- [Community Shelters](https://search.211colorado.org/search?terms=community%20shelters&page=1&location=colorado&service_area=colorado)
+- [Domestic Violence Shelters](https://search.211colorado.org/search?terms=domestic%20violence%20shelters&page=1&location=colorado&service_area=colorado)
+- [Extreme Weather Shelters](https://search.211colorado.org/search?terms=extreme%20weather%20shelters&page=1&location=colorado&service_area=colorado)
+- [Homeless Drop In Centers](https://search.211colorado.org/search?terms=homeless%20drop%20in%20centers&page=1&location=colorado&service_area=colorado)
+- [Homeless Motel Vouchers](https://search.211colorado.org/search?terms=homeless%20motel%20vouchers&page=1&location=colorado&service_area=colorado)
+- [Housing Related Coordinated Entry](https://search.211colorado.org/search?terms=housing%20related%20coordinated%20entry&page=1&location=colorado&service_area=colorado)
+- [Runaway/Youth Shelters](https://search.211colorado.org/search?terms=runaway%2Fyouth%20shelters&page=1&location=colorado&service_area=colorado)
+- [Maternity Homes](https://search.211colorado.org/search?terms=maternity%20homes&page=1&location=colorado&service_area=colorado)
+
 ##### Gender Specific
 ###### **Women**
 - [St. Francis Center](http://www.sfcdenver.org/)
