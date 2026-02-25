@@ -190,8 +190,14 @@ May contain support not listed in the county directories.
 <br>
 
 ## Housing
+- [HUD Resource Locator](https://resources.hud.gov/) – National map of affordable and subsidized housing.
+- [U.S. Department of Housing & Urban Development Tenant Resources](https://www.hud.gov/states/colorado/renting/tenantrights)
+- [Colorado Housing Connects](https://coloradohousingconnects.org/) – Eviction prevention and tenant rights hotline.
+	- **Foreclosure Hotline:** (844) 926-6632
+- [National Coalition for the Homeless](https://nationalhomeless.org/references/directory/) – Directory of advocacy and service groups.
 
 #### Shelters
+- [Shelters by City](https://www.shelterlistings.org/state/colorado.html)
 - [Community Shelters](https://search.211colorado.org/search?terms=community%20shelters&page=1&location=colorado&service_area=colorado)
 - [Domestic Violence Shelters](https://search.211colorado.org/search?terms=domestic%20violence%20shelters&page=1&location=colorado&service_area=colorado)
 - [Extreme Weather Shelters](https://search.211colorado.org/search?terms=extreme%20weather%20shelters&page=1&location=colorado&service_area=colorado)
