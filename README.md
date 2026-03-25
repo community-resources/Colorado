@@ -36,6 +36,56 @@ May contain support not listed in the county directories.
 - **[FindHelp.org](https://www.findhelp.org)** Search for free or reduced-cost services like medical care, food, housing, and more by zip code.
 <br>
 
+## Hotlines
+> **Note:** If you are in immediate physical danger or have a medical emergency, please contact **911** (or your local emergency services) immediately.
+#### **General Mental Health & Suicide**
+- **988 Suicide & Crisis Lifeline**
+    - **Phone:** 988 (Call or Text)
+    - **Website:** [988lifeline.org](https://988lifeline.org)
+- **Crisis Text Line**
+    - **Text:** Text "HOME" to 741741
+    - **Website:** [crisistextline.org](https://www.crisistextline.org)
+- **NAMI HelpLine (Mental Health Support)**
+    - **Phone:** 1-800-950-NAMI (6264)
+    - **Website:** [nami.org](https://www.nami.org)
+#### Violence, Abuse
+- **National Domestic Violence Hotline**
+    - **Phone:** 1-800-799-SAFE (7233)
+	- **Text:** Text "START" to 88788  
+    - **Website:** [thehotline.org](https://www.thehotline.org)
+    - **Description:** Provides 24/7 support for individuals experiencing domestic violence.
+- **RAINN (National Sexual Assault Hotline)**
+	- **Call** 800.656.HOPE (4673)  
+	- **Text** “HOPE” to 64673
+	- **Chat** at [RAINN.org/hotline](http://rainn.org/hotline)  
+    - **Website:** [rainn.org](https://www.rainn.org)
+- **StrongHearts Native Helpline (Indigenous Support)**
+    - **Phone:** 1-844-7NATIVE (762-8483)
+    - **Website:** [strongheartshelpline.org](https://strongheartshelpline.org)
+###### **Child & Teen Abuse**
+- **Childhelp National Child Abuse Hotline**
+    - **Phone:** 1-800-4-A-CHILD (422-2445)
+    - **Website:** [childhelphotline.org](https://www.childhelphotline.org)
+- **Love is Respect (Teen Dating Abuse)**
+    - **Phone:** 1-866-331-9474
+    - **Website:** [loveisrespect.org](https://www.loveisrespect.org)
+###### **Elder Abuse**
+- **Elderly Abuse Hotline**
+    - **Phone:** 1-800-677-1116
+    - **Website:** [eldercare.acl.gov](https://eldercare.acl.gov)
+	
+#### **Public Safety**
+###### **Human Trafficking**
+- **National Human Trafficking Hotline**
+	- **Call:** 1-888-373-7888
+	- **Text:** HELP to 233733
+	- **Email:** help@humantraffickinghotline.org
+	- **Web:** [humantraffickinghotline.org](https://humantraffickinghotline.org)
+
+<br>
+
+
+
 ## Food Assistance
 > [!IMPORTANT]
 > **Before You Visit!**
